@@ -1,0 +1,286 @@
+{
+  "profiles": [
+    {
+      "data": [
+        {
+          "id": 4,
+          "type": "whatsapp",
+          "title": "WhatsApp",
+          "number": "61995960606",
+          "text": "Olá, sou uma mensagem automática",
+          "content": "Me chame no Whatsapp",
+          "clicks": 0,
+          "active": true,
+          "input": false,
+          "numberInput": false,
+          "textInput": false
+        },
+        {
+          "id": 2,
+          "title": "Texto",
+          "type": "text",
+          "content": "Meu texto",
+          "clicks": 0,
+          "active": true,
+          "input": false
+        },
+        {
+          "id": 3,
+          "type": "pix",
+          "title": "PIX Copia e Cola",
+          "content": "Pague com Pix",
+          "key": "05799998154",
+          "clicks": 0,
+          "active": true,
+          "input": false,
+          "keyInput": false
+        },
+        {
+          "id": 1,
+          "type": "link",
+          "title": "URL",
+          "url": "https://meusite.com.br",
+          "content": "Meu site",
+          "image": "",
+          "clicks": 0,
+          "active": true,
+          "input": false,
+          "urlInput": false
+        }
+      ],
+      "appearance": [
+        {
+          "selector": "body",
+          "values": [
+            {
+              "property": "background",
+              "value": "rgb(255,130,41)"
+            },
+            {
+              "property": "background",
+              "value": "linear-gradient(8deg, rgba(255,130,41,1) 0%, rgba(255,138,55,1) 100%)"
+            },
+            {
+              "property": "color",
+              "value": "#ffffff"
+            }
+          ]
+        },
+        {
+          "selector": ".linkButton",
+          "values": [
+            {
+              "property": "background-color",
+              "value": "#ffffff"
+            },
+            {
+              "property": "color",
+              "value": "rgb(255,130,41)"
+            },
+            {
+              "property": "background-color",
+              "value": "rgb(255,130,41)",
+              "hover": true
+            },
+            {
+              "property": "color",
+              "value": "#ffffff",
+              "hover": true
+            },
+            {
+              "property": "border",
+              "value": "2px solid #ffffff",
+              "hover": true
+            },
+            {
+              "property": "transform",
+              "value": "none",
+              "hover": true
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "tools": {
+        "fbPixel": "<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '3487222144891118');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=3487222144891118&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->"
+      },
+      "id": 1,
+      "premium": true,
+      "name": "Kalebe Nathanael",
+      "description": "Desenvolvedor Full-Stack 🔥",
+      "redirectLink": "",
+      "photo": ""
+    }
+  ],
+  "appearances": [
+    {
+      "id": 1,
+      "name": "Orange Degrade",
+      "previewUrl": "https://i.postimg.cc/hjfwq62k/preview-Orange.jpg",
+      "data": [
+        {
+          "selector": "body",
+          "values": [
+            {
+              "property": "background",
+              "value": "rgb(255,130,41)"
+            },
+            {
+              "property": "background",
+              "value": "linear-gradient(8deg, rgba(255,130,41,1) 0%, rgba(255,138,55,1) 100%)"
+            },
+            {
+              "property": "color",
+              "value": "#ffffff"
+            }
+          ]
+        },
+        {
+          "selector": ".linkButton",
+          "values": [
+            {
+              "property": "background-color",
+              "value": "#ffffff"
+            },
+            {
+              "property": "color",
+              "value": "rgb(255,130,41)"
+            },
+            {
+              "property": "background-color",
+              "value": "rgb(255,130,41)",
+              "hover": true
+            },
+            {
+              "property": "color",
+              "value": "#ffffff",
+              "hover": true
+            },
+            {
+              "property": "border",
+              "value": "2px solid #ffffff",
+              "hover": true
+            },
+            {
+              "property": "transform",
+              "value": "none",
+              "hover": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Green",
+      "previewUrl": "https://i.postimg.cc/d3R9M9KM/preview-Green.jpg",
+      "data": [
+        {
+          "selector": "body",
+          "values": [
+            {
+              "property": "background",
+              "value": "#32a852"
+            },
+            {
+              "property": "color",
+              "value": "#ffffff"
+            }
+          ]
+        },
+        {
+          "selector": ".linkButton",
+          "values": [
+            {
+              "property": "background-color",
+              "value": "#ffffff"
+            },
+            {
+              "property": "color",
+              "value": "#32a852"
+            },
+            {
+              "property": "background-color",
+              "value": "#32a852",
+              "hover": true
+            },
+            {
+              "property": "color",
+              "value": "#ffffff",
+              "hover": true
+            },
+            {
+              "property": "border",
+              "value": "2px solid #ffffff",
+              "hover": true
+            },
+            {
+              "property": "transform",
+              "value": "none",
+              "hover": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Colorful",
+      "previewUrl": "https://i.postimg.cc/yNVxnXLg/preview-Colorido.jpg",
+      "data": [
+        {
+          "selector": "body",
+          "values": [
+            {
+              "property": "background",
+              "value": "rgb(255,130,41)"
+            },
+            {
+              "property": "background",
+              "value": "url('https://a-static.besthdwallpaper.com/wavy-colorful-background-wallpaper-1600x900-84174_47.jpg')"
+            },
+            {
+              "property": "background-size",
+              "value": "cover"
+            },
+            {
+              "property": "background-position",
+              "value": "center"
+            },
+            {
+              "property": "color",
+              "value": "#ffffff"
+            }
+          ]
+        },
+        {
+          "selector": ".linkButton",
+          "values": [
+            {
+              "property": "background-color",
+              "value": "#ffffff"
+            },
+            {
+              "property": "color",
+              "value": "rgb(255,130,41)"
+            },
+            {
+              "property": "border",
+              "value": "2px solid #ffffff",
+              "hover": true
+            },
+            {
+              "property": "transform",
+              "value": "none",
+              "hover": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
